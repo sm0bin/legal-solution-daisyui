@@ -6,7 +6,7 @@ module.exports = {
             colors: {
                 'brand-primary': '#B68C5A',
                 'headline': '#414040',
-                'text': '#707070',
+                'brand-text': '#707070',
             },
         },
     },
